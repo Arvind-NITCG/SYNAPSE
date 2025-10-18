@@ -5,9 +5,8 @@ ultralytics==8.3.217
 easyocr==1.7.2
 torch==2.9.0
 torchvision==0.24.0
-pillow==11.3.0
 langchain-core==0.3.77
-langchain-ollama==0.4.8
-langchain-chroma==0.0.11 # Note: langchain-chroma is the new package name
+langchain-ollama==0.0.10
+langchain-chroma==0.0.11
 deep-translator==1.10.1
 gTTS==2.5.4
